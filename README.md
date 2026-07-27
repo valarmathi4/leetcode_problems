@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/valarmathi4/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
