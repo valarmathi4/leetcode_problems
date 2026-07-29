@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/valarmathi4/leetcode_problems/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/valarmathi4/leetcode_problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/valarmathi4/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
