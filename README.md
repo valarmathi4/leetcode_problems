@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/valarmathi4/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/valarmathi4/leetcode_problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/valarmathi4/leetcode_problems/tree/master/0134-gas-station) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/valarmathi4/leetcode_problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 <!---LeetCode Topics End-->
