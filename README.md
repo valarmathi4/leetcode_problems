@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/valarmathi4/leetcode_problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 ## Binary Search
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0169-majority-element) |
+| [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
 ## Counting
 |  |
 | ------- |
@@ -125,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
