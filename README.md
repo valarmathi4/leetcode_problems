@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/valarmathi4/leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/valarmathi4/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/valarmathi4/leetcode_problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/valarmathi4/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0516-longest-palindromic-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/1143-longest-common-subsequence) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +74,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/valarmathi4/leetcode_problems/tree/master/0134-gas-station) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/valarmathi4/leetcode_problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
