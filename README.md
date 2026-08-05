@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/valarmathi4/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/valarmathi4/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/valarmathi4/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/valarmathi4/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/valarmathi4/leetcode_problems/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/1143-longest-common-subsequence) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/valarmathi4/leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
