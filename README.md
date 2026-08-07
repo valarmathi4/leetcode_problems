@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/valarmathi4/leetcode_problems/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
