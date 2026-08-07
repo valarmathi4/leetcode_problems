@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/valarmathi4/leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/valarmathi4/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/valarmathi4/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/valarmathi4/leetcode_problems/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/valarmathi4/leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/valarmathi4/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/valarmathi4/leetcode_problems/tree/master/0189-rotate-array) |
 ## Memoization
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/valarmathi4/leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/valarmathi4/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0169-majority-element) |
 ## Sorting
 |  |
