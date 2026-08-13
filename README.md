@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/valarmathi4/leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/valarmathi4/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/valarmathi4/leetcode_problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/valarmathi4/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/valarmathi4/leetcode_problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0516-longest-palindromic-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/valarmathi4/leetcode_problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/valarmathi4/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
@@ -152,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1075-project-employees-i](https://github.com/valarmathi4/leetcode_problems/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/valarmathi4/leetcode_problems/tree/master/1251-average-selling-price) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/valarmathi4/leetcode_problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/valarmathi4/leetcode_problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
