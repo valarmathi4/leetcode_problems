@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/valarmathi4/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/valarmathi4/leetcode_problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/valarmathi4/leetcode_problems/tree/master/0202-happy-number) |
 ## Memoization
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/valarmathi4/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/valarmathi4/leetcode_problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/valarmathi4/leetcode_problems/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/valarmathi4/leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/valarmathi4/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/valarmathi4/leetcode_problems/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/valarmathi4/leetcode_problems/tree/master/0322-coin-change) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/valarmathi4/leetcode_problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
