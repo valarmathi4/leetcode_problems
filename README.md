@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/valarmathi4/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/valarmathi4/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/valarmathi4/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/valarmathi4/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/valarmathi4/leetcode_problems/tree/master/0120-triangle) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/valarmathi4/leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/valarmathi4/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/valarmathi4/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/valarmathi4/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/valarmathi4/leetcode_problems/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/valarmathi4/leetcode_problems/tree/master/1143-longest-common-subsequence) |
@@ -131,11 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/valarmathi4/leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/valarmathi4/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/valarmathi4/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/valarmathi4/leetcode_problems/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/valarmathi4/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0169-majority-element) |
 | [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
 ## Counting
