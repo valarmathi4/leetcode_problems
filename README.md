@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/valarmathi4/leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/valarmathi4/leetcode_problems/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/valarmathi4/leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/valarmathi4/leetcode_problems/tree/master/0198-house-robber) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/valarmathi4/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/valarmathi4/leetcode_problems/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
