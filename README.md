@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/valarmathi4/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/valarmathi4/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/valarmathi4/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/valarmathi4/leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/valarmathi4/leetcode_problems/tree/master/0134-gas-station) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/valarmathi4/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/valarmathi4/leetcode_problems/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/valarmathi4/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/valarmathi4/leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/valarmathi4/leetcode_problems/tree/master/0198-house-robber) |
