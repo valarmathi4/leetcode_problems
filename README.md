@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/valarmathi4/leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/valarmathi4/leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1480-running-sum-of-1d-array](https://github.com/valarmathi4/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/valarmathi4/leetcode_problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3693-climbing-stairs-ii](https://github.com/valarmathi4/leetcode_problems/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/valarmathi4/leetcode_problems/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/valarmathi4/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 ## Database
 |  |
 | ------- |
